@@ -1,0 +1,4 @@
+1. Run the ​HTTPServer.java​on any platform.
+2. Open any browser tab and type​localhost:8000
+3. Navigate through the basic html webpages and see that all
+   requests are handled by the server.
